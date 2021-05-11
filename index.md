@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Exercise 6: Anecdote Rewriting
 
-You can use the [editor on GitHub](https://github.com/lvsass/WendysWritingWorkshop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+> Write an anecdote about something that happened to you. After you write it, identify one or more aspects that made it memorable. Use each of these aspects to rewrite the anecdote (one or more times) as a one-paragraph essay framing the meaning of your experience.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> This didn't happen to me but to someone close to me, who is of East Asian descent.
 
-### Markdown
+Shortly after I came back from LA last year, I was mortally ill with something. It was the early days of the pandemic when no one really knew better. From my drawers, I pulled out masks I bought last time I visited Beijing when the air pollution was severe. People stared as I wore my mask and walked along the canal to the hospital. Upon arrival I asked, could I be tested for COVID-19, so I could go home and quarantine myself? The doctor told me, “What if I got sick from taking care of you?” I have never heard of a doctor who gave this excuse, but here I was, with my mask and hand sanitizer, being preached by one who was more afraid of me than the unknown ailment. He did not want to test me. As I walked out of the hospital and across the street, some guys yelled out their car at me, “Corona!”
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A disguise, a veil, a veneer. I did not associate these words with the kind of disidentification that is expected of wearing a medical mask. And the more my face was covered the more visible my identity as an East Asian person. Shortly after I came back from LA last year, I was mortally ill with something. It was the early days of the pandemic when no one really knew better. From my drawers, I pulled out masks I bought last time I visited Beijing when the air pollution was severe. People stared as I wore my mask and walked along the canal to the hospital. Upon arrival I asked, can I be tested for COVID-19, so I can go home and quarantine myself? The doctor told me, “What if I got sick from taking care of you?” I have never heard of a doctor who gave this excuse, but here I was, with my mask and hand sanitizer, being preached by one who was more afraid of me than the unknown ailment. He did not want to test me. As I walked out of the hospital and across the street, some guys yelled out their car at me, “Corona!” It was as though the mask was making me and my identity more visible than ever.
 
-```markdown
-Syntax highlighted code block
+# Exercise 7: Advertisement
 
-# Header 1
-## Header 2
-### Header 3
+> Choose a photographic advertisement. Identify the elements of the advertisement. Write what it expresses as a short sequence of sentences. What are the premises, and what are the remedies that the product offers? How do the elements in the image function to make this statement? (You may want to take a look at Roland Barthes’ famous essay, “The Rhetoric of the Image,” originally published in 1967, from which this exercise takes inspiration.)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lvsass/WendysWritingWorkshop/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A leopard walks on water in a pool of water, which looks perfectly still. Perhaps it’s one of these infinity pools, but over the horizon, a faint landscape appears like the grand canyon or an exotic desert terrain. The leopard’s reflection on the water is studded with diamonds and black onyx, sparkling with emerald eyes. There’s only one word, Cartier, over one of the ripples emanating from the leopard’s steps. 
+What is the premise of this surreal landscape? How could a leopard walk on water? The landscape is mysterious, vacant, and ultimately unlocatable. The dislocated landscape signifies an aloofness–an unattainable other.
