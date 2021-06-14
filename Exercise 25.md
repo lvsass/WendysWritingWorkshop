@@ -12,4 +12,4 @@ In the interwar period, many designers experimented with industrial production t
 
 3. The wingspan of the Boeing 747 measures 68.4 meters—the size of a four-story house. [Already is relational! But could be better.]
 
-The wingspan of the Boeing 747 measures 68.4 meters, the size of a four-story house—the fuselage alone is so big that the Wright brother' first powered flight could have happened in the interior in its entirety. [Sadly not mine, but always beautiful to read.]
+The wingspan of the Boeing 747 measures 68.4 meters, the size of a four-story house—the fuselage alone is so big that the Wright brothers' first powered flight could have happened in the interior in its entirety. [Sadly not mine, but always beautiful to read.]
