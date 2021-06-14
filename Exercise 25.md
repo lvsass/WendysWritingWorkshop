@@ -2,7 +2,7 @@
 
 > Find or invent three sentences that feature numerical information.
 
-1. The photography collection at Getty Research Institute provides a critical mass of imagery for studying the dynamics of this shift in visual culture [A visual criminalization of Chinese males.]. The Second Opium War (1856–60) and the Boxer Uprising (1900–01) anchor the period of focus.
+1. Photographies from the Second Opium War (1856–60) and the Boxer Uprising (1900–01) anchor the period of focus for a study of this shift in visual culture [A visual criminalization of Chinese males.].
 
 The development of early photographic technologies coincided with imperialist and colonialist campaigns on China. These were campaigns that elicited more than half a century of bloody conflicts, such as the Second Opium War (1856–60)—which resulted in the cession of many Chinese territories—and the Boxer Uprising (1900–01)—an anti-imperialist, anti-foreign uprising which to the looting, rape and occupation of Chinese cities and their governments. The photographic ethnography that accompanied the colonial forces on their assault, went from the representation of singular racial stereotypes to a depiction of racial and national essences—punitive essences that were largely defined in terms of negativity, criminality, and pathology.
 
